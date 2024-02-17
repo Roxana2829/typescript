@@ -1,6 +1,6 @@
 console.log('hello mundo');
 
-console.log(text)
+//console.log(text)
 
  
 
