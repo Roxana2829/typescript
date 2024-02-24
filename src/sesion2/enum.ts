@@ -17,3 +17,4 @@ function checkDoorState(state:DoorState) {
                     break
     }
 }
+checkDoorState(200)
