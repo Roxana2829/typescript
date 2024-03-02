@@ -26,4 +26,4 @@ interface WeakTyep {
     id?: number;
     name?: string;
 }
-let weak: WeakTyep = {desc: 'rer'}
+//let weak: WeakTyep = {desc: 'rer'}
